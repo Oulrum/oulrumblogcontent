@@ -1,0 +1,20 @@
+@import url(_reset.css);
+@import url(_variaveis.css);
+
+body {
+    background-color: rgb(10, 0, 26);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+
+.centralizar {
+    align-items: center;
+    justify-content: center;
+}
+
+.oculto {
+    display: none;
+}

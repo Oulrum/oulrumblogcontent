@@ -1,0 +1,6 @@
+.post {
+    background-color: var(--cor-posts);
+    height: 100px;
+    border-radius: var(--arredondamento);
+    margin-bottom: 10px;
+}

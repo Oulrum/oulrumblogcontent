@@ -1,3 +1,7 @@
 .conteudo {
     padding: 10px;
 }
+
+.conteudo section {
+    margin-bottom: 15px;
+}

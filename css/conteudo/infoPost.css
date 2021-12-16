@@ -1,0 +1,38 @@
+.info-post {
+    background-image: linear-gradient( #330f6cff 60%, #ff0000ff 200%);
+    height: 300px;
+    border-radius: var(--arredondamento);
+}
+
+.info-post:hover > .info-post__titulo::after  {
+    margin-left: 155px;
+    width: 80px;
+}
+
+.info-post {
+    color: white;
+    flex-direction: column;
+}
+
+.info-post__titulo {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.info-post__titulo::after {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 65px;
+    background-color: white;
+    border-radius: var(--arredondamento);
+    transition: all .5s;
+}
+
+.info-post__descricao {
+    text-align: center;
+    display: block;
+    width: 80%;
+    max-width: 430px;
+}

@@ -1,19 +1,19 @@
-.posts__titulo {
+.posters__titulo {
     font-size: 2rem;
     color: white;
     margin-bottom: 10px;
 }
 
-.posts__conteiner {
+.posters__conteiner {
     flex-direction: column;
 }
 
-.post__imagem {
+.poster__imagem {
     width: 100%;
     border-radius: var(--arredondamento);
 }
 
-.post {
+.poster {
     background-color: var(--cor-posts);
     border-radius: var(--arredondamento);
     margin-bottom: 10px;
@@ -22,18 +22,18 @@
     justify-content: space-between;
 }
 
-.post__titulo {
+.poster__titulo {
     color: white;
     font-size: 1.2rem;
 }
 
-.post__descricao {
+.poster__descricao {
     font-size: .8rem;
     line-height: 18px;
     color: pink;
 }
 
-.post__botao {
+.poster__botao {
     display: block;
     background-color: thistle;
     border-radius: var(--arredondamento);
@@ -46,12 +46,12 @@
 }
 
 @media (min-width: 600px) {
-    .posts__conteiner {
+    .posters__conteiner {
         flex-direction: row;
         justify-content: space-between;
     }
 
-    .post {
+    .poster {
         width: 23%;
     }
 }

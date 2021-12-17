@@ -1,6 +1,7 @@
 .posts__titulo {
     font-size: 2rem;
     color: white;
+    margin-bottom: 10px;
 }
 
 .posts__conteiner {

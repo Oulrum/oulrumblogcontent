@@ -1,0 +1,9 @@
+.rodape {
+    height: 64px;
+    text-align: center;
+    background-color: var(--cor-principal);
+}
+
+.rodape__texto {
+    color: white;
+}

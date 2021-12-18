@@ -2,10 +2,7 @@
     height: 64px;
     text-align: center;
     background-color: var(--cor-principal);
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    margin-top: auto;
 }
 
 .rodape__texto {

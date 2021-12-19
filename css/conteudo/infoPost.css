@@ -4,7 +4,7 @@
     border-radius: var(--arredondamento);
 }
 
-.info-poster:hover > .info-post__titulo::after  {
+.info-poster:hover > .info-poster__titulo::after  {
     margin-left: 155px;
     width: 80px;
 }

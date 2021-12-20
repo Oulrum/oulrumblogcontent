@@ -53,5 +53,6 @@
 
     .poster, .post-outer {
         width: 23%;
+        margin-left: 2%;
     }
 }

@@ -48,7 +48,6 @@
 @media (min-width: 600px) {
     .posters__conteiner, .date-posts {
         flex-direction: row;
-        justify-content: space-between;
     }
 
     .poster, .post-outer {

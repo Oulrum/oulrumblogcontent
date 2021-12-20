@@ -13,7 +13,7 @@
     border-radius: var(--arredondamento);
 }
 
-.poster {
+.poster, .post-outer {
     background-color: var(--cor-posts);
     border-radius: var(--arredondamento);
     margin-bottom: 10px;

@@ -33,7 +33,7 @@
     color: pink;
 }
 
-.poster__botao {
+.poster__botao, .jump-link a {
     display: block;
     background-color: thistle;
     border-radius: var(--arredondamento);

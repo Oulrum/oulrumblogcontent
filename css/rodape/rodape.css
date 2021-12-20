@@ -1,5 +1,4 @@
 .rodape {
-    height: 64px;
     text-align: center;
     background-color: var(--cor-principal);
     margin-top: auto;
@@ -7,4 +6,5 @@
 
 .rodape__texto {
     color: white;
+    margin: 20px;
 }

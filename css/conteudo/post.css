@@ -25,6 +25,7 @@
 .poster__titulo, .post-title a {
     color: white;
     font-size: 1.2rem;
+    text-transform: uppercase;
 }
 
 .poster__descricao {

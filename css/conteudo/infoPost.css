@@ -33,6 +33,7 @@
 .info-poster__descricao {
     text-align: center;
     display: block;
+    color: white;
     width: 80%;
     max-width: 430px;
 }

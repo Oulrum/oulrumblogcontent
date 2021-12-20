@@ -16,7 +16,6 @@
 .poster, .post-outer {
     background-color: var(--cor-posts);
     border-radius: var(--arredondamento);
-    height: 225px;
     margin-bottom: 10px;
     padding: 5px;
     flex-direction: column;

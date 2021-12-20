@@ -6,6 +6,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
 }
 
 .flex {

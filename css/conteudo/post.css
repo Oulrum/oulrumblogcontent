@@ -54,4 +54,8 @@
         width: 23%;
         margin-left: 2%;
     }
+    
+    .poster:nth-child(1), .post-outer:nth-child(1) {
+        margin-left: 0;
+    }
 }

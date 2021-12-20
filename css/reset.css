@@ -49,3 +49,8 @@ table {
 a {
 	text-decoration: none;
 }
+
+p, span, strong {
+	color: pink;
+	background-color: transparent;
+}

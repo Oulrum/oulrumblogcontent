@@ -46,7 +46,7 @@
     color: rgb(37, 37, 37);
 }
 
-.post-footer abbr {
+.post-footer abbr, .post-timestamp {
     color: white;
     font-size: .8rem;
     text-decoration: none;

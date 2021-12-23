@@ -4,7 +4,7 @@
     margin-bottom: 10px;
 }
 
-.post__imagem {
+.poster__imagem {
     width: 100%;
     border-radius: var(--arredondamento);
 }

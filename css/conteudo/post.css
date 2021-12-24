@@ -1,7 +1,12 @@
-.posters__titulo, .post-title {
+.posters__titulo {
     font-size: 2rem;
     color: white;
     margin-bottom: 10px;
+}
+
+.post-title {
+    color: white;
+    font-size: 1.2rem;
 }
 
 .poster__imagem {
@@ -15,7 +20,8 @@
     margin-bottom: 10px;
     padding: 5px;
     flex-direction: column;
-    justify-content: space-between;   
+    justify-content: space-between;
+    hei
 }
 
 .jump-link a {

@@ -9,6 +9,6 @@
     border-radius: var(--arredondamento);
 }
 
-blog-posts {
+.blog-posts {
     display: flex;  
 }

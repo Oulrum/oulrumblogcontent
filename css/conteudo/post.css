@@ -26,10 +26,14 @@
 @media (min-width: 600px) {
     .blog-posts {
         flex-direction: row;
-        justify-content: space-between;
     }
 
     .date-outer {
         width: 23%;
+        margin-left: 2%;
+    }
+    
+    .date-outer:nth-child(1) {
+        margin-left: 0;   
     }
 }

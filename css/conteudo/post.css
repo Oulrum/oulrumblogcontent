@@ -10,5 +10,17 @@
 }
 
 .blog-posts {
-    display: flex;  
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 600px) {
+    .blog-posts {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .date-outer {
+        width: 23%;
+    }
 }

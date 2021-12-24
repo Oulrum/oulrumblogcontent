@@ -18,6 +18,18 @@
     justify-content: space-between;   
 }
 
+.jump-link a {
+    display: block;
+    background-color: thistle;
+    border-radius: var(--arredondamento);
+    height: 30px;
+    margin: 10px 5px 0 5px;
+    text-align: center;
+    padding: 8px;
+    box-sizing: border-box;
+    color: rgb(37, 37, 37);   
+}
+
 .blog-posts {
     display: flex;
     flex-direction: column;

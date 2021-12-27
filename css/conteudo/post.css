@@ -25,6 +25,7 @@
 }
 
 .post-outer {
+    display: flex;
     background-color: var(--cor-posts);
     border-radius: var(--arredondamento);
     margin-bottom: 10px;

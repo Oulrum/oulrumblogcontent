@@ -46,6 +46,10 @@
     color: rgb(37, 37, 37);   
 }
 
+.date-outer {
+    margin-bottom: 10px;   
+}
+
 .blog-posts {
     display: flex;
     flex-direction: column;

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="182.77995"
+   height="115.22492"
+   viewBox="0 0 48.360529 30.486594"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="oulrum3_cop.svg"
+   inkscape:export-filename="C:\Users\otavi\Pictures\Inkscape\oulrum3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.8974032"
+     inkscape:cx="108.56944"
+     inkscape:cy="32.412721"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.96436216,-0.63170273)">
+    <g
+       id="g1995">
+      <path
+         sodipodi:type="star"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="path846"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="35.031055"
+         sodipodi:cy="24.596273"
+         sodipodi:r1="115.62408"
+         sodipodi:r2="57.812042"
+         sodipodi:arg1="0.84468932"
+         sodipodi:arg2="1.3682881"
+         inkscape:rounded="0.6"
+         inkscape:randomized="0"
+         transform="matrix(0.12265798,0,0,0.12265798,11.578162,12.858071)"
+         inkscape:transform-center-x="2.2378485"
+         inkscape:transform-center-y="-1.4262125"
+         d="M 111.80124,111.0559 C 59.925464,157.11801 64.36876,156.2057 -1.4600832,134.31101 -67.288927,112.41633 -64.277195,115.80818 -78.230265,47.85139 -92.183335,-20.105402 -93.6149,-15.80124 -41.739126,-61.863349 10.136647,-107.92546 5.6933507,-107.01315 71.522194,-85.118466 c 65.828846,21.894684 62.817116,18.502831 76.770186,86.459623 13.95307,67.956792 15.38463,63.65263 -36.49114,109.714743 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.671px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.341776"
+         x="5.3881154"
+         y="20.771328"
+         id="text2890"><tspan
+           sodipodi:role="line"
+           id="tspan2888"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.341776"
+           x="5.3881154"
+           y="20.771328">Oulrum</tspan></text>
+    </g>
+  </g>
+</svg>

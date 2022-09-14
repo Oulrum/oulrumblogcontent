@@ -9,7 +9,7 @@ async function obterMoeda(moedaOrigem, moedaDestino = "BRL") {
 }
 
 async function obterListaDeMoedas() {
-    let listaDeMoedas = await fetch('/dados/moedas.json')
+    let listaDeMoedas = await fetch('https://oulrum.github.io/oulrumblogcontent/js/moedas.json')
         .then(T => T.json())
         .then(valores => {
 
@@ -24,7 +24,7 @@ async function obterListaDeMoedas() {
 }
 
 async function obterListaFiltrada(moeda, listaDeMoedas) {
-    let listaFiltrada = await fetch("/dados/conversoes.json")
+    let listaFiltrada = await fetch("https://oulrum.github.io/oulrumblogcontent/js/conversoes.json")
         .then(T => T.json())
         .then(v => {
             let c = [];
